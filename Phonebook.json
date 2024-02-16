@@ -1,13 +1,5 @@
 [
     {
-        "name": "А",
-        "surname": "А",
-        "patronymic": "А",
-        "work": "Ф",
-        "work_number": "нет",
-        "personal_number": "нет"
-    },
-    {
         "name": "Александр",
         "surname": "Иванов",
         "patronymic": "Александрович",
