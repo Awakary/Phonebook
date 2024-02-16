@@ -1,0 +1,810 @@
+[
+    {
+        "name": "А",
+        "surname": "А",
+        "patronymic": "А",
+        "work": "Ф",
+        "work_number": "нет",
+        "personal_number": "нет"
+    },
+    {
+        "name": "Александр",
+        "surname": "Иванов",
+        "patronymic": "Александрович",
+        "work": "Гелион",
+        "work_number": "25-32-24",
+        "personal_number": "89801726231"
+    },
+    {
+        "name": "Александр",
+        "surname": "Иванов",
+        "patronymic": "Александрович",
+        "work": "Чай и булочки",
+        "work_number": "35-91-87",
+        "personal_number": "89117655210"
+    },
+    {
+        "name": "Александр",
+        "surname": "Иванов",
+        "patronymic": "Анатольевич",
+        "work": "Чай и булочки",
+        "work_number": "34-48-37",
+        "personal_number": "89942596372"
+    },
+    {
+        "name": "Александр",
+        "surname": "Иванов",
+        "patronymic": "Иванович",
+        "work": "Веритас",
+        "work_number": "72-59-66",
+        "personal_number": "89101001010"
+    },
+    {
+        "name": "Александр",
+        "surname": "Иванов",
+        "patronymic": "Иванович",
+        "work": "Гелион",
+        "work_number": "55-31-75",
+        "personal_number": "89629683446"
+    },
+    {
+        "name": "Борис",
+        "surname": "Иванов",
+        "patronymic": "Петрович",
+        "work": "Чай и булочки",
+        "work_number": "42-52-23",
+        "personal_number": "89979423141"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Иванов",
+        "patronymic": "Александрович",
+        "work": "Веритас",
+        "work_number": "88-11-32",
+        "personal_number": "89717194259"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Иванов",
+        "patronymic": "Александрович",
+        "work": "Лесные жители",
+        "work_number": "84-61-66",
+        "personal_number": "89477712825"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Иванов",
+        "patronymic": "Анатольевич",
+        "work": "Цитрус",
+        "work_number": "24-64-65",
+        "personal_number": "89208061112"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Иванов",
+        "patronymic": "Анатольевич",
+        "work": "Цитрус",
+        "work_number": "87-67-25",
+        "personal_number": "89554453532"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Иванов",
+        "patronymic": "Валерьевич",
+        "work": "Веритас",
+        "work_number": "52-95-67",
+        "personal_number": "89604186090"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Иванов",
+        "patronymic": "Иванович",
+        "work": "Чай и булочки",
+        "work_number": "49-15-28",
+        "personal_number": "89114569682"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Иванов",
+        "patronymic": "Петрович",
+        "work": "Цитрус",
+        "work_number": "62-55-80",
+        "personal_number": "89417879590"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Иванов",
+        "patronymic": "Анатольевич",
+        "work": "Лесные жители",
+        "work_number": "42-99-64",
+        "personal_number": "89954688721"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Иванов",
+        "patronymic": "Петрович",
+        "work": "Лесные жители",
+        "work_number": "29-87-12",
+        "personal_number": "89695233724"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Иванов",
+        "patronymic": "Петрович",
+        "work": "Цитрус",
+        "work_number": "17-64-17",
+        "personal_number": "89853989245"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Иванов",
+        "patronymic": "Петрович",
+        "work": "Чай и булочки",
+        "work_number": "50-68-81",
+        "personal_number": "нет"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Иванов",
+        "patronymic": "Иванович",
+        "work": "Лесные жители",
+        "work_number": "76-24-95",
+        "personal_number": "89203318873"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Иванов",
+        "patronymic": "Иванович",
+        "work": "Чай и булочки",
+        "work_number": "38-48-19",
+        "personal_number": "89981955811"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Иванов",
+        "patronymic": "Петрович",
+        "work": "Лесные жители",
+        "work_number": "50-21-74",
+        "personal_number": "89456292436"
+    },
+    {
+        "name": "Александр",
+        "surname": "Кузнецов",
+        "patronymic": "Александрович",
+        "work": "Чай и булочки",
+        "work_number": "26-92-30",
+        "personal_number": "89607610710"
+    },
+    {
+        "name": "Александр",
+        "surname": "Кузнецов",
+        "patronymic": "Александрович",
+        "work": "Чай и булочки",
+        "work_number": "62-60-51",
+        "personal_number": "89219413499"
+    },
+    {
+        "name": "Александр",
+        "surname": "Кузнецов",
+        "patronymic": "Александрович",
+        "work": "Чай и булочки",
+        "work_number": "78-18-88",
+        "personal_number": "89840268164"
+    },
+    {
+        "name": "Александр",
+        "surname": "Кузнецов",
+        "patronymic": "Валерьевич",
+        "work": "Чай и булочки",
+        "work_number": "24-89-53",
+        "personal_number": "89009540480"
+    },
+    {
+        "name": "Александр",
+        "surname": "Кузнецов",
+        "patronymic": "Петрович",
+        "work": "Гелион",
+        "work_number": "93-51-78",
+        "personal_number": "89112726713"
+    },
+    {
+        "name": "Борис",
+        "surname": "Кузнецов",
+        "patronymic": "Анатольевич",
+        "work": "Веритас",
+        "work_number": "68-56-27",
+        "personal_number": "89014326307"
+    },
+    {
+        "name": "Борис",
+        "surname": "Кузнецов",
+        "patronymic": "Анатольевич",
+        "work": "Лесные жители",
+        "work_number": "88-57-17",
+        "personal_number": "89893890934"
+    },
+    {
+        "name": "Борис",
+        "surname": "Кузнецов",
+        "patronymic": "Валерьевич",
+        "work": "Цитрус",
+        "work_number": "60-52-51",
+        "personal_number": "89160684582"
+    },
+    {
+        "name": "Борис",
+        "surname": "Кузнецов",
+        "patronymic": "Валерьевич",
+        "work": "Чай и булочки",
+        "work_number": "66-50-82",
+        "personal_number": "89301104099"
+    },
+    {
+        "name": "Борис",
+        "surname": "Кузнецов",
+        "patronymic": "Петрович",
+        "work": "Гелион",
+        "work_number": "55-40-89",
+        "personal_number": "89972317984"
+    },
+    {
+        "name": "Борис",
+        "surname": "Кузнецов",
+        "patronymic": "Петрович",
+        "work": "Гелион",
+        "work_number": "93-38-24",
+        "personal_number": "89282732484"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Кузнецов",
+        "patronymic": "Александрович",
+        "work": "Цитрус",
+        "work_number": "98-26-74",
+        "personal_number": "89469044011"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Кузнецов",
+        "patronymic": "Анатольевич",
+        "work": "Веритас",
+        "work_number": "19-21-97",
+        "personal_number": "89093844453"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Кузнецов",
+        "patronymic": "Анатольевич",
+        "work": "Веритас",
+        "work_number": "81-40-16",
+        "personal_number": "89256991935"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Кузнецов",
+        "patronymic": "Анатольевич",
+        "work": "Цитрус",
+        "work_number": "23-22-48",
+        "personal_number": "89734039780"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Кузнецов",
+        "patronymic": "Валерьевич",
+        "work": "Чай и булочки",
+        "work_number": "58-97-45",
+        "personal_number": "89129963091"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Кузнецов",
+        "patronymic": "Иванович",
+        "work": "Веритас",
+        "work_number": "42-75-26",
+        "personal_number": "89889662013"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Кузнецов",
+        "patronymic": "Иванович",
+        "work": "Цитрус",
+        "work_number": "92-32-43",
+        "personal_number": "89760264920"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Кузнецов",
+        "patronymic": "Александрович",
+        "work": "Веритас",
+        "work_number": "64-72-76",
+        "personal_number": "89151356700"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Кузнецов",
+        "patronymic": "Иванович",
+        "work": "Веритас",
+        "work_number": "11-43-77",
+        "personal_number": "89428032519"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Кузнецов",
+        "patronymic": "Иванович",
+        "work": "Цитрус",
+        "work_number": "24-83-59",
+        "personal_number": "89161621760"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Кузнецов",
+        "patronymic": "Иванович",
+        "work": "Цитрус",
+        "work_number": "96-77-56",
+        "personal_number": "89273550318"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Кузнецов",
+        "patronymic": "Александрович",
+        "work": "Лесные жители",
+        "work_number": "43-95-58",
+        "personal_number": "89618218458"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Кузнецов",
+        "patronymic": "Анатольевич",
+        "work": "Чай и булочки",
+        "work_number": "66-25-91",
+        "personal_number": "89348269324"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Кузнецов",
+        "patronymic": "Валерьевич",
+        "work": "Чай и булочки",
+        "work_number": "48-54-80",
+        "personal_number": "89774901024"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Кузнецов",
+        "patronymic": "Иванович",
+        "work": "Лесные жители",
+        "work_number": "51-83-37",
+        "personal_number": "89367441903"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Кузнецов",
+        "patronymic": "Петрович",
+        "work": "Лесные жители",
+        "work_number": "60-67-11",
+        "personal_number": "89409400540"
+    },
+    {
+        "name": "Александр",
+        "surname": "Морозов",
+        "patronymic": "Александрович",
+        "work": "Лесные жители",
+        "work_number": "66-95-33",
+        "personal_number": "89018234866"
+    },
+    {
+        "name": "Александр",
+        "surname": "Морозов",
+        "patronymic": "Анатольевич",
+        "work": "Гелион",
+        "work_number": "73-85-12",
+        "personal_number": "89790364414"
+    },
+    {
+        "name": "Борис",
+        "surname": "Морозов",
+        "patronymic": "Александрович",
+        "work": "Чай и булочки",
+        "work_number": "31-26-52",
+        "personal_number": "89792926018"
+    },
+    {
+        "name": "Борис",
+        "surname": "Морозов",
+        "patronymic": "Анатольевич",
+        "work": "Гелион",
+        "work_number": "57-31-21",
+        "personal_number": "89823974490"
+    },
+    {
+        "name": "Борис",
+        "surname": "Морозов",
+        "patronymic": "Валерьевич",
+        "work": "Гелион",
+        "work_number": "39-21-64",
+        "personal_number": "89179876826"
+    },
+    {
+        "name": "Борис",
+        "surname": "Морозов",
+        "patronymic": "Петрович",
+        "work": "Гелион",
+        "work_number": "64-90-13",
+        "personal_number": "89236048366"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Морозов",
+        "patronymic": "Иванович",
+        "work": "Веритас",
+        "work_number": "35-68-57",
+        "personal_number": "89936355384"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Морозов",
+        "patronymic": "Иванович",
+        "work": "Веритас",
+        "work_number": "84-58-55",
+        "personal_number": "89841186540"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Морозов",
+        "patronymic": "Иванович",
+        "work": "Гелион",
+        "work_number": "54-15-57",
+        "personal_number": "89082385629"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Морозов",
+        "patronymic": "Петрович",
+        "work": "Лесные жители",
+        "work_number": "55-97-89",
+        "personal_number": "89200485615"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Морозов",
+        "patronymic": "Александрович",
+        "work": "Веритас",
+        "work_number": "78-64-69",
+        "personal_number": "89639178244"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Морозов",
+        "patronymic": "Александрович",
+        "work": "Цитрус",
+        "work_number": "60-42-86",
+        "personal_number": "89719049327"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Морозов",
+        "patronymic": "Анатольевич",
+        "work": "Чай и булочки",
+        "work_number": "90-96-27",
+        "personal_number": "89104005623"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Морозов",
+        "patronymic": "Валерьевич",
+        "work": "Лесные жители",
+        "work_number": "39-70-67",
+        "personal_number": "89211298940"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Морозов",
+        "patronymic": "Валерьевич",
+        "work": "Лесные жители",
+        "work_number": "64-31-35",
+        "personal_number": "89518201868"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Морозов",
+        "patronymic": "Иванович",
+        "work": "Чай и булочки",
+        "work_number": "86-63-91",
+        "personal_number": "89044325949"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Морозов",
+        "patronymic": "Петрович",
+        "work": "Веритас",
+        "work_number": "69-42-28",
+        "personal_number": "89810911460"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Морозов",
+        "patronymic": "Анатольевич",
+        "work": "Цитрус",
+        "work_number": "33-66-95",
+        "personal_number": "89712223832"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Морозов",
+        "patronymic": "Иванович",
+        "work": "Цитрус",
+        "work_number": "57-47-94",
+        "personal_number": "89806090761"
+    },
+    {
+        "name": "Александр",
+        "surname": "Смирнов",
+        "patronymic": "Александрович",
+        "work": "Гелион",
+        "work_number": "28-72-55",
+        "personal_number": "89437017998"
+    },
+    {
+        "name": "Александр",
+        "surname": "Смирнов",
+        "patronymic": "Александрович",
+        "work": "Цитрус",
+        "work_number": "90-64-65",
+        "personal_number": "89641441212"
+    },
+    {
+        "name": "Александр",
+        "surname": "Смирнов",
+        "patronymic": "Александрович",
+        "work": "Чай и булочки",
+        "work_number": "16-78-69",
+        "personal_number": "89383693299"
+    },
+    {
+        "name": "Александр",
+        "surname": "Смирнов",
+        "patronymic": "Иванович",
+        "work": "Веритас",
+        "work_number": "23-49-78",
+        "personal_number": "89782194210"
+    },
+    {
+        "name": "Александр",
+        "surname": "Смирнов",
+        "patronymic": "Петрович",
+        "work": "Чай и булочки",
+        "work_number": "64-96-57",
+        "personal_number": "89852533512"
+    },
+    {
+        "name": "Борис",
+        "surname": "Смирнов",
+        "patronymic": "Валерьевич",
+        "work": "Веритас",
+        "work_number": "84-50-56",
+        "personal_number": "89037489476"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Смирнов",
+        "patronymic": "Валерьевич",
+        "work": "Веритас",
+        "work_number": "22-93-20",
+        "personal_number": "89133758526"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Смирнов",
+        "patronymic": "Иванович",
+        "work": "Веритас",
+        "work_number": "98-32-21",
+        "personal_number": "89832520888"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Смирнов",
+        "patronymic": "Александрович",
+        "work": "Лесные жители",
+        "work_number": "85-45-35",
+        "personal_number": "89777312963"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Смирнов",
+        "patronymic": "Иванович",
+        "work": "Лесные жители",
+        "work_number": "62-68-36",
+        "personal_number": "89167359705"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Смирнов",
+        "patronymic": "Анатольевич",
+        "work": "Веритас",
+        "work_number": "70-37-61",
+        "personal_number": "89802529012"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Смирнов",
+        "patronymic": "Анатольевич",
+        "work": "Чай и булочки",
+        "work_number": "64-53-52",
+        "personal_number": "89506498631"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Смирнов",
+        "patronymic": "Иванович",
+        "work": "Гелион",
+        "work_number": "26-73-23",
+        "personal_number": "89011209714"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Смирнов",
+        "patronymic": "Иванович",
+        "work": "Гелион",
+        "work_number": "34-95-51",
+        "personal_number": "89249433189"
+    },
+    {
+        "name": "Александр",
+        "surname": "Соколов",
+        "patronymic": "Александрович",
+        "work": "Гелион",
+        "work_number": "84-83-71",
+        "personal_number": "89198492670"
+    },
+    {
+        "name": "Александр",
+        "surname": "Соколов",
+        "patronymic": "Анатольевич",
+        "work": "Цитрус",
+        "work_number": "96-74-88",
+        "personal_number": "89862490884"
+    },
+    {
+        "name": "Александр",
+        "surname": "Соколов",
+        "patronymic": "Анатольевич",
+        "work": "Чай и булочки",
+        "work_number": "48-95-92",
+        "personal_number": "89109619254"
+    },
+    {
+        "name": "Александр",
+        "surname": "Соколов",
+        "patronymic": "Петрович",
+        "work": "Лесные жители",
+        "work_number": "69-31-20",
+        "personal_number": "89069080371"
+    },
+    {
+        "name": "Борис",
+        "surname": "Соколов",
+        "patronymic": "Александрович",
+        "work": "Лесные жители",
+        "work_number": "88-61-95",
+        "personal_number": "89749555332"
+    },
+    {
+        "name": "Борис",
+        "surname": "Соколов",
+        "patronymic": "Валерьевич",
+        "work": "Гелион",
+        "work_number": "91-91-48",
+        "personal_number": "89799773944"
+    },
+    {
+        "name": "Борис",
+        "surname": "Соколов",
+        "patronymic": "Валерьевич",
+        "work": "Цитрус",
+        "work_number": "32-40-18",
+        "personal_number": "89612463913"
+    },
+    {
+        "name": "Борис",
+        "surname": "Соколов",
+        "patronymic": "Иванович",
+        "work": "Веритас",
+        "work_number": "50-57-32",
+        "personal_number": "89799734226"
+    },
+    {
+        "name": "Борис",
+        "surname": "Соколов",
+        "patronymic": "Петрович",
+        "work": "Лесные жители",
+        "work_number": "88-56-45",
+        "personal_number": "89471025289"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Соколов",
+        "patronymic": "Александрович",
+        "work": "Гелион",
+        "work_number": "11-59-98",
+        "personal_number": "89423294598"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Соколов",
+        "patronymic": "Петрович",
+        "work": "Гелион",
+        "work_number": "55-13-75",
+        "personal_number": "89234263591"
+    },
+    {
+        "name": "Вадим",
+        "surname": "Соколов",
+        "patronymic": "Петрович",
+        "work": "Цитрус",
+        "work_number": "26-76-15",
+        "personal_number": "89051303083"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Соколов",
+        "patronymic": "Александрович",
+        "work": "Чай и булочки",
+        "work_number": "24-98-50",
+        "personal_number": "89725115375"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Соколов",
+        "patronymic": "Петрович",
+        "work": "Веритас",
+        "work_number": "70-41-66",
+        "personal_number": "89764860857"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Соколов",
+        "patronymic": "Петрович",
+        "work": "Лесные жители",
+        "work_number": "59-73-81",
+        "personal_number": "89664035503"
+    },
+    {
+        "name": "Станислав",
+        "surname": "Соколов",
+        "patronymic": "Петрович",
+        "work": "Лесные жители",
+        "work_number": "61-89-73",
+        "personal_number": "89732525199"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Соколов",
+        "patronymic": "Александрович",
+        "work": "Веритас",
+        "work_number": "22-83-98",
+        "personal_number": "89726978759"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Соколов",
+        "patronymic": "Анатольевич",
+        "work": "Лесные жители",
+        "work_number": "41-86-57",
+        "personal_number": "89087219921"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Соколов",
+        "patronymic": "Иванович",
+        "work": "Лесные жители",
+        "work_number": "70-28-94",
+        "personal_number": "89184821481"
+    },
+    {
+        "name": "Терентий",
+        "surname": "Соколов",
+        "patronymic": "Иванович",
+        "work": "Чай и булочки",
+        "work_number": "96-31-17",
+        "personal_number": "89601765067"
+    }
+]
